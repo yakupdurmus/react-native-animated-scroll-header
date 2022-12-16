@@ -1,0 +1,26 @@
+{
+  "name": "react-native-animated-scroll-header",
+  "version": "1.0.0",
+  "description": "React native animated scroll header",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakupdurmus/rn-animated-header.git"
+  },
+  "keywords": [
+    "react-native",
+    "animation",
+    "animated",
+    "header",
+    "scrollview"
+  ],
+  "author": "yakupdurmus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakupdurmus/rn-animated-header/issues"
+  },
+  "homepage": "https://github.com/yakupdurmus/rn-animated-header#readme"
+}
