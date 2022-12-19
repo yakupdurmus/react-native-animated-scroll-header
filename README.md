@@ -1,5 +1,30 @@
-React Native Animated Scroll Header 
+# React Native Animated Scroll Header 
 
+React Native Animated Scroll Header components for iOS + Android
+
+Header that supports RTL. 
+
+## Installation
+
+To install this module `cd` to your project directory and enter the following command:
+
+```
+yarn add @react-native-community/slider
+```
+or
+```
+npm install @react-native-community/slider --save
+```
+
+## Demo 
+
+| Short Content        | Scrollable Content                     |
+-----------------------|----------------------------------------|
+<img src="https://github.com/yakupdurmus/react-native-animated-scroll-header/blob/main/src/assets/demo1.gif" alt="demo1" width="300"/> | <img src="https://github.com/yakupdurmus/react-native-animated-scroll-header/blob/main/src/assets/demo2.gif" alt="demo2" width="300"/>
+
+
+
+## Properties 
 
 | Props                | Types                                  | Description                                                     |
 |----------------------|----------------------------------------|-----------------------------------------------------------------|
@@ -15,6 +40,5 @@ React Native Animated Scroll Header
 
 
 
-<img src="https://github.com/yakupdurmus/react-native-animated-scroll-header/blob/main/src/assets/demo1.gif" alt="demo1" width="300"/>
 
-<img src="https://github.com/yakupdurmus/react-native-animated-scroll-header/blob/main/src/assets/demo2.gif" alt="demo2" width="300"/>
+
