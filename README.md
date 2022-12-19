@@ -9,11 +9,11 @@ Header that supports RTL.
 To install this module `cd` to your project directory and enter the following command:
 
 ```
-yarn add @react-native-community/slider
+yarn add react-native-animated-scroll-header
 ```
 or
 ```
-npm install @react-native-community/slider --save
+npm install react-native-animated-scroll-header
 ```
 
 ## Demo 
